@@ -54,7 +54,7 @@
     "markdown-it-katex": "^2.0.3",
     "markdown-it-link-attributes": "^2.0.0",
     "markdown-it-replace-link": "^1.0.1",
-    "node-sass": "^4.9.2",
+    "node-sass": "^4.13.1",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "shelljs": "^0.8.2"
